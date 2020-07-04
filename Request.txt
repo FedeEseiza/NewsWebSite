@@ -1,0 +1,13 @@
+Plugin: Live Server
+
+Patrones de diseños:
+https://www.heropatterns.com/
+
+Fuente del texto:
+https://fonts.google.com
+
+imagenes para el sitio:
+https://www.pexels.com/es-es/
+
+Efecto de scroll en pantalla:
+https://scrollrevealjs.org/
